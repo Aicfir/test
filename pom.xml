@@ -11,7 +11,7 @@
 
 
   <name>test Maven Webapp </name>
-  <!-- FIXME change it to the  project's website  -->
+  <!-- FIXME change it to the  project's website  加入测试-->
   <url>http://www.example.com </url>
 
   <properties>
